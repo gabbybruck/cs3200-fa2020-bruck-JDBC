@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:github" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:heroku" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="668bfec9-e3ca-452e-bb2b-c8a8c7347009" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../DB2" beforeDir="false" afterPath="$PROJECT_DIR$/../DB2" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jKm3CLC9PBFHsTUu4ZwPThYxdG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="CourseDao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jdbc.daos.CourseDao" />
+      <module name="dbDesign" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jdbc.daos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CourseDao" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="668bfec9-e3ca-452e-bb2b-c8a8c7347009" name="Default Changelist" comment="" />
+      <created>1603560958239</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603560958239</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1358" height="194" key="GridCell.Tab.0.bottom" timestamp="1603661174400">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="1358" height="194" key="GridCell.Tab.0.bottom/0.23.1440.827@0.23.1440.827" timestamp="1603659221469" />
+    <state width="1358" height="194" key="GridCell.Tab.0.bottom/0.23.1440.828@0.23.1440.828" timestamp="1603661174400" />
+    <state width="1358" height="194" key="GridCell.Tab.0.bottom/0.23.1440.830@0.23.1440.830" timestamp="1603573489472" />
+    <state width="1358" height="194" key="GridCell.Tab.0.center" timestamp="1603661174400">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="1358" height="194" key="GridCell.Tab.0.center/0.23.1440.827@0.23.1440.827" timestamp="1603659221468" />
+    <state width="1358" height="194" key="GridCell.Tab.0.center/0.23.1440.828@0.23.1440.828" timestamp="1603661174400" />
+    <state width="1358" height="194" key="GridCell.Tab.0.center/0.23.1440.830@0.23.1440.830" timestamp="1603573489472" />
+    <state width="1358" height="194" key="GridCell.Tab.0.left" timestamp="1603661174399">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="1358" height="194" key="GridCell.Tab.0.left/0.23.1440.827@0.23.1440.827" timestamp="1603659221467" />
+    <state width="1358" height="194" key="GridCell.Tab.0.left/0.23.1440.828@0.23.1440.828" timestamp="1603661174399" />
+    <state width="1358" height="194" key="GridCell.Tab.0.left/0.23.1440.830@0.23.1440.830" timestamp="1603573489471" />
+    <state width="1358" height="194" key="GridCell.Tab.0.right" timestamp="1603661174400">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="1358" height="194" key="GridCell.Tab.0.right/0.23.1440.827@0.23.1440.827" timestamp="1603659221468" />
+    <state width="1358" height="194" key="GridCell.Tab.0.right/0.23.1440.828@0.23.1440.828" timestamp="1603661174400" />
+    <state width="1358" height="194" key="GridCell.Tab.0.right/0.23.1440.830@0.23.1440.830" timestamp="1603573489472" />
+    <state x="228" y="23" width="1024" height="830" key="SettingsEditor" timestamp="1603561329550">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state x="228" y="23" width="1024" height="830" key="SettingsEditor/0.23.1440.830@0.23.1440.830" timestamp="1603561329550" />
+    <state x="437" y="337" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1603561303887">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state x="437" y="337" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.23.1440.830@0.23.1440.830" timestamp="1603561303887" />
+  </component>
+</project>
